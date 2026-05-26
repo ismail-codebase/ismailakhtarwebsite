@@ -18,6 +18,7 @@ Professional portfolio website for UI/UX Manager and Frontend Tech Lead with 10+
 - **Performance** - Optimized for fast loading and great Lighthouse scores
 
 
+
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 16.2.6
