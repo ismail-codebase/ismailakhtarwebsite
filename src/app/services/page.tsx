@@ -68,6 +68,17 @@ export default function Services() {
         'Implementation support',
       ],
     },
+    {
+      title: 'Email Integration & Automation',
+      description: 'Setup transactional email services, integrate AWS SES, and automate email workflows for your applications.',
+      price: '₹5,000 - ₹15,000/project',
+      features: [
+        'AWS SES configuration',
+        'Email template design',
+        'Transactional email setup',
+        'Email automation workflows',
+      ],
+    },
   ];
 
   return (
